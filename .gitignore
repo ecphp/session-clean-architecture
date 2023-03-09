@@ -1,0 +1,9 @@
+/.direnv/
+/build/
+/bin/
+/.vscode/
+/out/
+*.bak*
+indent.log
+/pandoc-presentation.pdf
+/result
